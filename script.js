@@ -2,10 +2,10 @@
 // For 10DLC approval, legalName must match the legal business name registered
 // with The Campaign Registry (exactly as on your EIN / IRS paperwork).
 const SITE = {
-  legalName: "",    // e.g. "CMC Recruiting LLC"
-  email: "",        // e.g. "info@yourdomain.com"
-  phone: "",        // e.g. "(555) 123-4567"
-  address: ""       // e.g. "123 Main St, Suite 100, Denver, CO 80202"
+  legalName: "Brittney Nicole Clark",
+  email: "blark@cmcbusinesssolutions.com",
+  phone: "(832) 331-2213",
+  address: "110 Jaxxon Pointe Dr"   // TODO: add city, state, ZIP
 };
 // ==============================================================================
 
