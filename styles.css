@@ -125,7 +125,7 @@ p { color: var(--muted); }
   pointer-events: none;
 }
 .hero-inner { position: relative; }
-.hero-logo { width: min(620px, 100%); margin: 0 auto 10px; }
+.hero-logo { width: min(620px, 100%); margin: 0 auto 10px; mix-blend-mode: lighten; }
 .lead { font-size: 1.15rem; max-width: 660px; margin: 0 auto 34px; color: #b8bac0; }
 .hero-ctas { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
 
