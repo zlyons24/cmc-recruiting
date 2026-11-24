@@ -5,7 +5,7 @@ const SITE = {
   legalName: "Brittney Nicole Clark",
   email: "blark@cmcbusinesssolutions.com",
   phone: "(832) 331-2213",
-  address: "110 Jaxxon Pointe Dr"   // TODO: add city, state, ZIP
+  address: "110 Jaxxon Pointe Dr, Montgomery, TX 77316"
 };
 // ==============================================================================
 
