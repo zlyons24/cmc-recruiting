@@ -1,6 +1,6 @@
 # CMC Recruiting Website
 
-Static website for CMC Recruiting, a sales recruiting firm for commission-based roles. Hosted with GitHub Pages.
+Static website for CMC Recruiting, a sales recruiting firm for commission-based roles. Live at https://cmcrecruits.com (GitHub Pages; domain and DNS are on the Mail Signal Vercel team).
 
 ## Editing without a computer setup
 
@@ -39,9 +39,9 @@ Before submitting your campaign, fill in `legalName`, `email`, `phone` and `addr
 
 Campaign fields you can paste into Telnyx:
 
-- **Opt-in workflow**: "Users opt in via the contact form at <site URL>#contact by checking an optional, unchecked SMS consent checkbox and providing their mobile number. Disclosures include brand name, message frequency, msg & data rates, HELP/STOP, and links to the Privacy Policy (<site URL>privacy.html) and Terms (<site URL>terms.html)."
+- **Opt-in workflow**: "Users opt in via the contact form at https://cmcrecruits.com/#contact by checking an optional, unchecked SMS consent checkbox and providing their mobile number. Disclosures include brand name, message frequency, msg & data rates, HELP/STOP, and links to the Privacy Policy (https://cmcrecruits.com/privacy.html) and Terms (https://cmcrecruits.com/terms.html)."
 - **Sample message 1**: "CMC Recruiting: Hi {name}, your interview with {company} is confirmed for {date} at {time}. Reply STOP to opt out."
 - **Sample message 2**: "CMC Recruiting: New commission-based sales role in {city}: {title}. Interested? Reply YES and we'll reach out. Reply STOP to opt out, HELP for help."
-- **HELP reply**: "CMC Recruiting: For help, email {email} or call {phone}. Msg & data rates may apply. Reply STOP to opt out."
+- **HELP reply**: "CMC Recruiting: For help, email blark@cmcbusinesssolutions.com or call (832) 331-2213. Msg & data rates may apply. Reply STOP to opt out."
 - **STOP reply**: "CMC Recruiting: You have been unsubscribed and will receive no further messages. Reply START to resubscribe."
 - **Opt-in confirmation**: "CMC Recruiting: Thanks for subscribing to recruiting updates. Msg frequency varies. Msg & data rates may apply. Reply HELP for help, STOP to opt out."
