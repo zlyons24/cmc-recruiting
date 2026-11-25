@@ -2,7 +2,7 @@
 // For 10DLC approval, legalName must match the legal business name registered
 // with The Campaign Registry (exactly as on your EIN / IRS paperwork).
 const SITE = {
-  legalName: "Brittney Nicole Clark",
+  legalName: "CMC Business Solutions LLC (d/b/a CMC Recruiting)",
   email: "blark@cmcbusinesssolutions.com",
   phone: "(832) 331-2213",
   address: "110 Jaxxon Pointe Dr, Montgomery, TX 77316"
